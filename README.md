@@ -1,2 +1,4 @@
 # hello-world
 My first repository
+
+In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
